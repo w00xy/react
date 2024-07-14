@@ -1,0 +1,26 @@
+body {
+  background-image: url('assets/marek-piwnicki-UhvgAMGj8GM-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.clock-container {
+  backdrop-filter: blur(5px);
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+span {
+  font-size: 4rem;
+  font-family: monospace;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.87);
+}
