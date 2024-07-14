@@ -63,3 +63,23 @@
 4. Запуск приложения в dev режиме
 
 ```npm run dev```
+
+## Stopwatch
+
+![Stopwatch](https://github.com/user-attachments/assets/e1b33fef-e5ab-4cfc-bad2-fe21250b68c4)
+
+1. Клонирование репозитория 
+
+```git clone https://github.com/w00xy/react.git```
+
+2. Переход в директорию To-Do
+
+```cd Stopwatch```
+
+3. Установка необходимых зависимостей npm
+
+```npm i```
+
+4. Запуск приложения в dev режиме
+
+```npm run dev```
