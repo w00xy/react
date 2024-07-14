@@ -22,3 +22,23 @@
 4. Запуск приложения в dev режиме
 
 ```npm run dev```
+
+## To-Do app
+
+![Color-picker app](https://github.com/user-attachments/assets/bfd0205e-bf90-4af1-a579-13d39de238ae)
+
+1. Клонирование репозитория 
+
+```git clone https://github.com/w00xy/react.git```
+
+2. Переход в директорию To-Do
+
+```cd Color-picker```
+
+3. Установка необходимых зависимостей npm
+
+```npm i```
+
+4. Запуск приложения в dev режиме
+
+```npm run dev```
