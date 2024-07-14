@@ -42,3 +42,24 @@
 4. Запуск приложения в dev режиме
 
 ```npm run dev```
+
+## Digital Clock
+
+![DigitalClock](https://github.com/user-attachments/assets/96892043-4ddd-460b-b40a-abe0c00c1585)
+
+
+1. Клонирование репозитория 
+
+```git clone https://github.com/w00xy/react.git```
+
+2. Переход в директорию To-Do
+
+```cd Digital-clock```
+
+3. Установка необходимых зависимостей npm
+
+```npm i```
+
+4. Запуск приложения в dev режиме
+
+```npm run dev```
